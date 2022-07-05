@@ -1,0 +1,12 @@
+name: "Blogsite"
+title: "DACSS 601"
+description: |
+  DACSS 601
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
