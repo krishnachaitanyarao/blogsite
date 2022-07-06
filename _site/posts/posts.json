@@ -15,5 +15,22 @@
     "preview": "posts/welcome/welcome_files/figure-html5/pressure-1.png",
     "last_modified": "2022-07-05T19:03:27-04:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/first_post/",
+    "title": "601 first post Niharika",
+    "description": "Welcome to our new blog, DACSS 601. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Niharika",
+        "url": {}
+      }
+    ],
+    "date": "2022-07-05",
+    "categories": [],
+    "contents": "\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\n\r\n\r\nNote that the echo = FALSE parameter was added to the\r\ncode chunk to prevent printing of the R code that generated the\r\nplot.\r\n\r\n\r\n\r\n",
+    "preview": "posts/first_post/first_post_files/figure-html5/pressure-1.png",
+    "last_modified": "2022-07-05T20:52:40-04:00",
+    "input_file": "first_post.knit.md"
   }
 ]
